@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+    font-family: Georgia;
+}
+
+h1 {
+    font-family: comic sans  MS;
+    font-size: 60px;
+    color: darkblue;
+}
+
+h3 a{
+    color: white;
+    font-family: 'Gill Sans';
+}
+
+h4 {
+ text-align: right; 
+ font-style: italic;
+}
+
+p.satu {
+    color: orange;
+    text-align: center;
+}
+
+p.dua {
+    text-align: right;
+}

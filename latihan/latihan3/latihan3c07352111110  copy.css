@@ -1,0 +1,46 @@
+body {
+    background-color: aquamarine;
+    font-family: Georgia;
+}
+
+h1 {
+    font-family: comic sans  MS;
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+
+h3 a{
+    color: white;
+    font-family: 'Gill Sans';
+    text-decoration: none;
+}
+
+h3 a:hover {
+    color: red;
+}
+
+h4 {
+ text-align: right; 
+ font-style: italic;
+}
+
+p.satu {
+    color: orange;
+    text-align: center;
+}
+
+p.dua {
+    text-align: right;
+}
+
+p a {
+    color: blue;
+    text-decoration: none;
+}
+
+p a:hover  {
+    color: white;
+    background-color: blue;
+    transition: 2s;
+}
