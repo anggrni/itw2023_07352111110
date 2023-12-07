@@ -1,0 +1,20 @@
+/*FLEX BOX*/
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;        /*mengatur letak elemen horizontal*/
+    align-items: center;            /*mengatur letak elemen secara vertikal*/
+    gap: 10px;                      /*mengatur margin*/
+}
+
+
+.container .box {
+    width: 150px;
+    height: 150px;
+    background-color: burlywood;
+
+}
