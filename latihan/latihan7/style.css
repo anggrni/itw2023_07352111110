@@ -29,21 +29,21 @@ body{
 .hero{
     grid-area: hero;
     min-height: 300px;
-    background-image: url(./img/hero.JPG);
+    background-image: url(./img/hero.png);
     background-size: cover;
     background-position: center;
     padding: 50px;
 }
 
-.hero > *{
+.hero *{
     display: none;
 }
 .features{
     background-color: #ecb707;
     color: white;
     display: grid;
-    /* justify-content: center;
-    align-content: center; */
+    justify-content: center;
+    align-content: center;
     place-content: center;
     text-align: center;
     cursor: pointer;
@@ -51,12 +51,12 @@ body{
 
 .feature-1{
     grid-area: feature-1;
-    background-image: url(./img/ayam\ geprek.jpeg);
+    background-image: url(./img/aset2.png);
     background-size: cover;
 }
 .feature-2{
     grid-area: feature-2;
-    background-image: url(./img/minuman.jpg);
+    background-image: url(./img/aset1.jpeg);
     background-size: cover;
 }
 
